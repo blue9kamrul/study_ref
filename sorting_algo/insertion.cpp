@@ -15,8 +15,7 @@ void insertionSort(int a[], int n){
             j=j-1;
         }
         a[j+1]=item;
-    }
-    
+    }  
 }
 
 void display(int a[],int n){
