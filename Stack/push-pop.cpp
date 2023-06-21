@@ -45,5 +45,5 @@ int main(){
     item=pop(&s);
     cout<<item<<" ";
     item=pop(&s);
-    cout<<item<<" ";
+    cout<<item<<" "; 
 }
